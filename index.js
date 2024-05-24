@@ -63,7 +63,7 @@ document.querySelector(".contact100-form-btn").onclick = function () {
                 <th colspan="4" class="text-center">CHI TIẾT HÓA ĐƠN</th>
             </tr>
             <tr>
-                <th class="text-center" style="padding-top: 30px">CHI TIẾT</th>
+                <th class="text-center p-3">CHI TIẾT</th>
                 <th class="text-center p-3">SỬ DỤNG</th>
                 <th class="text-center p-3">ĐƠN GIÁ (1.000đ)</th>
                 <th class="text-center p-3">THÀNH TIỀN (1.000đ)</th>
